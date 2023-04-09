@@ -1,3 +1,4 @@
+#!/bin/env python
 import xlrd
 import csv
 from glob import glob

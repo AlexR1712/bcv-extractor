@@ -1,3 +1,5 @@
 beautifulsoup4
 requests
 xlrd
+matplotlib
+prophet
